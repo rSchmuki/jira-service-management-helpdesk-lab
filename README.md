@@ -136,7 +136,7 @@ Created three Confluence knowledge base articles:
 
 Each article provides reusable diagnostic procedures, corrective actions, verification steps, and escalation guidance.
 
-![Confluence knowledge base](screenshots/reporting/confluence-dns-troubleshooting-kb.png)
+![Confluence knowledge base](screenshots/reporting/confluence-kb-dns-troubleshooting.png)
 
 ## Reporting and SLA Performance
 
